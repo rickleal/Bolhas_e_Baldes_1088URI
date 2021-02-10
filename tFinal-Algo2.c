@@ -4,8 +4,7 @@
  * 
  * Trabalho Prático Final 2020.1
  *
- * MANRICK LEAL DE SOUSA
- * JOÃO VICTOR DE LIMA CARVALHO 
+ * MANRICK LEAL DE SOUSA 
  *
  * 25/01/2021
  * 
