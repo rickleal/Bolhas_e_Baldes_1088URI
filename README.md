@@ -21,3 +21,7 @@ Usando duas funções, uma para movimentar elementos do vetor, de um lugar para 
 Basicamente foi usado o método dividir para conquistar.
 Utilizar o conceito do Algoritmo Mergesort, para rearranjar vetores no nosso modelo de código. 
 
+
+Algoritmos Utilizados:
+
+Tipos abstratos de dados(TAD), para ler todos os dados do arquivo de entrada (entrada.txt), para enfim fazer o processamento de cada informação, que será usada como entradas no programa. Repetições, condicionais de verificação.
